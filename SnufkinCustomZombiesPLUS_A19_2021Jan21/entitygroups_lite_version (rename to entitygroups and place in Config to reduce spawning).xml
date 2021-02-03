@@ -22,140 +22,140 @@ Please note, the Juggernaut has been added to one group outside of BM; the Waste
 
 	<!-- Zombies night -->
 	<append xpath="/entitygroups/entitygroup[@name='ZombiesNight']">
-		<entity name="ZombieArchon" prob="0.1"/>	<!-- 14 from Base Snufkin Mod -->
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.2"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.2"/>
-		<entity name="HellBear" prob="0.2"/>	<!-- 10 from Plus Snufkin Mod -->
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>	
+		<entity name="ZombieArchon" prob="0.05"/>	<!-- 14 from Base Snufkin Mod -->
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.1"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.05"/>
+		<entity name="HellBear" prob="0.1"/>	<!-- 10 from Plus Snufkin Mod -->
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>	
 	</append>
 	
 	<append xpath="/entitygroups/entitygroup[@name='ZombiesAll']">
-		<entity name="ZombieArchon" prob="0.1"/>
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.2"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.2"/>
-		<entity name="HellBear" prob="0.2"/>
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>
+		<entity name="ZombieArchon" prob="0.05"/>
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.1"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.05"/>
+		<entity name="HellBear" prob="0.1"/>
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>
 	</append>
 	
 	<append xpath="/entitygroups/entitygroup[@name='ZombiesBurntForest']">
-		<entity name="ZombieArchon" prob="0.1"/>
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.2"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.2"/>
-		<entity name="HellBear" prob="0.2"/>
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>
+		<entity name="ZombieArchon" prob="0.05"/>
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.1"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.05"/>
+		<entity name="HellBear" prob="0.1"/>
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>
 	</append>
 	
 	<append xpath="/entitygroups/entitygroup[@name='SnowZombies']">
-		<entity name="ZombieArchon" prob="0.1"/>
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.2"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.2"/>
-		<entity name="HellBear" prob="0.2"/>
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>
+		<entity name="ZombieArchon" prob="0.05"/>
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.1"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.05"/>
+		<entity name="HellBear" prob="0.1"/>
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>
 	</append>
 	
 	<append xpath="/entitygroups">
 		<entitygroup name="ZombiesWastelandNightHard">
-		<entity name="ZombieArchon" prob="0.1"/>
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="ZombieJuggernaut" prob="0.05"/> <!-- One Appearance opportunity beyond BM -->	
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.2"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.2"/>		
-		<entity name="HellBear" prob="0.2"/>
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>		
+		<entity name="ZombieArchon" prob="0.05"/>
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="ZombieJuggernaut" prob="0.025"/> <!-- One Appearance opportunity beyond BM -->	
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.1"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.05"/>		
+		<entity name="HellBear" prob="0.1"/>
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>		
 		<entity name="zombieDemolition" prob="0.2"/> <!-- 1 from Default Files -->
 	</entitygroup>
 		
@@ -179,30 +179,30 @@ Please note, the Juggernaut has been added to one group outside of BM; the Waste
 		<entity name="zombieNurse" prob="0.2"/>
 		<entity name="zombieSteveCrawler" prob="0.2"/>
 		<entity name="zombieFatHawaiian" prob="0.2"/>
-		<entity name="ZombieArchon" prob="0.1"/>
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.2"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.2"/>
-		<entity name="HellBear" prob="0.2"/>
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>			
+		<entity name="ZombieArchon" prob="0.05"/>
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.1"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.05"/>
+		<entity name="HellBear" prob="0.1"/>
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>			
 	</entitygroup>
 		
 	<entitygroup name="ZombiesPineForestNight">
@@ -213,30 +213,30 @@ Please note, the Juggernaut has been added to one group outside of BM; the Waste
 		<entity name="zombieSteveCrawlerFeral"/>
 		<entity name="zombieSpiderFeral"/>
 		<entity name="zombieNurseFeral"/>
-		<entity name="ZombieArchon" prob="0.1"/>
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.2"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.2"/>
-		<entity name="HellBear" prob="0.2"/>
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>
+		<entity name="ZombieArchon" prob="0.05"/>
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.1"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.05"/>
+		<entity name="HellBear" prob="0.1"/>
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>
 	</entitygroup>
 		
 	<entitygroup name="ZombiesDesertNight">
@@ -249,30 +249,30 @@ Please note, the Juggernaut has been added to one group outside of BM; the Waste
 		<entity name="zombieNurse" prob="0.2"/>
 		<entity name="zombieSteveCrawler" prob="0.2"/>
 		<entity name="zombieFatHawaiian" prob="0.2"/>
-		<entity name="ZombieArchon" prob="0.1"/>
-		<entity name="zombieBanshee" prob="0.2"/>
-		<entity name="ZombieBomber" prob="0.2"/>
-		<entity name="zombieCowhead" prob="0.2"/>
-		<entity name="zombieGeist" prob="0.2"/>
-		<entity name="zombieMantis" prob="0.2"/>		
-		<entity name="zombieParasite" prob="0.2"/>
-		<entity name="zombiePsycho" prob="0.2"/>
-		<entity name="zombieScarecrow" prob="0.2"/>
-		<entity name="zombieScorcher" prob="0.2"/>
-		<entity name="zombieSiren" prob="0.2"/>
-		<entity name="ZombieUndertaker" prob="0.9"/>		
-		<entity name="zombieWendigo" prob="0.2"/>
-		<entity name="zombieWrestler" prob="0.9"/>
-		<entity name="HellBear" prob="0.2"/>
-		<entity name="HellBoar" prob="0.2"/>
-		<entity name="HellFlyer" prob="0.1"/>
-		<entity name="HellLion" prob="0.2"/>
-		<entity name="HellShocker" prob="0.1"/>
-		<entity name="HellWolf" prob="0.2"/>		
-		<entity name="Mittens" prob="0.2"/>
-		<entity name="zombieMotorhead" prob="0.2"/>
-		<entity name="Paindeer" prob="0.2"/>
-		<entity name="SharkWFLB" prob="0.1"/>	
+		<entity name="ZombieArchon" prob="0.05"/>
+		<entity name="zombieBanshee" prob="0.1"/>
+		<entity name="ZombieBomber" prob="0.1"/>
+		<entity name="zombieCowhead" prob="0.1"/>
+		<entity name="zombieGeist" prob="0.1"/>
+		<entity name="zombieMantis" prob="0.1"/>		
+		<entity name="zombieParasite" prob="0.1"/>
+		<entity name="zombiePsycho" prob="0.1"/>
+		<entity name="zombieScarecrow" prob="0.1"/>
+		<entity name="zombieScorcher" prob="0.1"/>
+		<entity name="zombieSiren" prob="0.1"/>
+		<entity name="ZombieUndertaker" prob="0.2"/>		
+		<entity name="zombieWendigo" prob="0.1"/>
+		<entity name="zombieWrestler" prob="0.2"/>
+		<entity name="HellBear" prob="0.1"/>
+		<entity name="HellBoar" prob="0.1"/>
+		<entity name="HellFlyer" prob="0.05"/>
+		<entity name="HellLion" prob="0.1"/>
+		<entity name="HellShocker" prob="0.05"/>
+		<entity name="HellWolf" prob="0.1"/>		
+		<entity name="Mittens" prob="0.05"/>
+		<entity name="zombieMotorhead" prob="0.1"/>
+		<entity name="Paindeer" prob="0.1"/>
+		<entity name="SharkWFLB" prob="0.05"/>	
 	</entitygroup>
 	</append>
 
